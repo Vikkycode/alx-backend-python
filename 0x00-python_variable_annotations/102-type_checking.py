@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-from typing import List, Tuple, Union
+
+from typing import List, Tuple
 """ zoom array function"""
 
 
