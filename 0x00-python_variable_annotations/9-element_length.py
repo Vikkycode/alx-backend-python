@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" element """
+""" element length function """
 from typing import List, Tuple
 
 
