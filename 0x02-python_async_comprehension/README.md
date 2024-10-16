@@ -51,4 +51,4 @@ Notice that the total runtime is roughly 10 seconds, explain it to yourself.
 
 ## Author
 
-Victor Oricha
+Victor
