@@ -7,6 +7,7 @@ from unittest.mock import patch
 
 from utils import memoize
 
+
 class TestMemoize(unittest.TestCase):
     """Test class for the memoize decorator."""
 
