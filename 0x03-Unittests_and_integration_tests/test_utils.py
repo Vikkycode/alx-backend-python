@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+"""Unittest for get_json
+"""
+
 import unittest
 from unittest.mock import patch
 from parameterized import parameterized
