@@ -14,5 +14,5 @@ class TestAccessNestedMap(unittest.TestCase):
     ])
     def test_access_nested_map(self, nested_map: Mapping,
                                path: Tuple, expected: Any) -> None:
-        """Test that the function returns"""
+        """Test that the function return"""
         self.assertEqual(access_nested_map(nested_map, path), expected)
